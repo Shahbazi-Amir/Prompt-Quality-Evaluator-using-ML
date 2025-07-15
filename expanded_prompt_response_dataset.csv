@@ -1,0 +1,313 @@
+prompt,response,response_id,quality_label,length,prompt_response_sim
+What is the tallest mountain in the world?,What is the tallest mountain in the world? (This is a high-quality response with detail and clarity.),1,2,17,0
+What is the tallest mountain in the world?,What... (This is a medium-quality response with some detail.),2,1,9,0
+What is the tallest mountain in the world?,What (Low response.),3,0,3,0
+Explain the process of evaporation.,Explain the process of evaporation. (This is a high-quality response with detail and clarity.),4,2,14,0
+Explain the process of evaporation.,Explain... (This is a medium-quality response with some detail.),5,1,9,0
+Explain the process of evaporation.,Explain (Low response.),6,0,3,0
+Describe the taste of chocolate.,Describe the taste of chocolate. (This is a high-quality response with detail and clarity.),7,2,14,0
+Describe the taste of chocolate.,Describe... (This is a medium-quality response with some detail.),8,1,9,0
+Describe the taste of chocolate.,Describe (Low response.),9,0,3,0
+How do you bake a chocolate cake?,How do you bake a chocolate cake? (This is a high-quality response with detail and clarity.),10,2,16,0
+How do you bake a chocolate cake?,How... (This is a medium-quality response with some detail.),11,1,9,0
+How do you bake a chocolate cake?,How (Low response.),12,0,3,0
+List three uses of a smartphone.,List three uses of a smartphone. (This is a high-quality response with detail and clarity.),13,2,15,0
+List three uses of a smartphone.,List... (This is a medium-quality response with some detail.),14,1,9,0
+List three uses of a smartphone.,List (Low response.),15,0,3,0
+What causes rainbows to appear?,What causes rainbows to appear? (This is a high-quality response with detail and clarity.),16,2,14,0
+What causes rainbows to appear?,What... (This is a medium-quality response with some detail.),17,1,9,0
+What causes rainbows to appear?,What (Low response.),18,0,3,0
+Write a short poem about summer.,Write a short poem about summer. (This is a high-quality response with detail and clarity.),19,2,15,0
+Write a short poem about summer.,Write... (This is a medium-quality response with some detail.),20,1,9,0
+Write a short poem about summer.,Write (Low response.),21,0,3,0
+What are the benefits of exercise?,What are the benefits of exercise? (This is a high-quality response with detail and clarity.),22,2,15,0
+What are the benefits of exercise?,What... (This is a medium-quality response with some detail.),23,1,9,0
+What are the benefits of exercise?,What (Low response.),24,0,3,0
+Summarize the plot of Hamlet.,Summarize the plot of Hamlet. (This is a high-quality response with detail and clarity.),25,2,14,0
+Summarize the plot of Hamlet.,Summarize... (This is a medium-quality response with some detail.),26,1,9,0
+Summarize the plot of Hamlet.,Summarize (Low response.),27,0,3,0
+Define artificial intelligence.,Define artificial intelligence. (This is a high-quality response with detail and clarity.),28,2,12,0
+Define artificial intelligence.,Define... (This is a medium-quality response with some detail.),29,1,9,0
+Define artificial intelligence.,Define (Low response.),30,0,3,0
+What is the capital of Japan?,What is the capital of Japan? (This is a high-quality response with detail and clarity.),31,2,15,0
+What is the capital of Japan?,What... (This is a medium-quality response with some detail.),32,1,9,0
+What is the capital of Japan?,What (Low response.),33,0,3,0
+Translate 'Good morning' to Spanish.,Translate 'Good morning' to Spanish. (This is a high-quality response with detail and clarity.),34,2,14,0
+Translate 'Good morning' to Spanish.,Translate... (This is a medium-quality response with some detail.),35,1,9,0
+Translate 'Good morning' to Spanish.,Translate (Low response.),36,0,3,0
+Explain how a car engine works.,Explain how a car engine works. (This is a high-quality response with detail and clarity.),37,2,15,0
+Explain how a car engine works.,Explain... (This is a medium-quality response with some detail.),38,1,9,0
+Explain how a car engine works.,Explain (Low response.),39,0,3,0
+Why do birds migrate?,Why do birds migrate? (This is a high-quality response with detail and clarity.),40,2,13,0
+Why do birds migrate?,Why... (This is a medium-quality response with some detail.),41,1,9,0
+Why do birds migrate?,Why (Low response.),42,0,3,0
+List five countries in Africa.,List five countries in Africa. (This is a high-quality response with detail and clarity.),43,2,14,0
+List five countries in Africa.,List... (This is a medium-quality response with some detail.),44,1,9,0
+List five countries in Africa.,List (Low response.),45,0,3,0
+Describe your favorite movie.,Describe your favorite movie. (This is a high-quality response with detail and clarity.),46,2,13,0
+Describe your favorite movie.,Describe... (This is a medium-quality response with some detail.),47,1,9,0
+Describe your favorite movie.,Describe (Low response.),48,0,3,0
+How do plants grow?,How do plants grow? (This is a high-quality response with detail and clarity.),49,2,13,0
+How do plants grow?,How... (This is a medium-quality response with some detail.),50,1,9,0
+How do plants grow?,How (Low response.),51,0,3,0
+What is the function of the heart?,What is the function of the heart? (This is a high-quality response with detail and clarity.),52,2,16,0
+What is the function of the heart?,What... (This is a medium-quality response with some detail.),53,1,9,0
+What is the function of the heart?,What (Low response.),54,0,3,0
+Write a funny joke about dogs.,Write a funny joke about dogs. (This is a high-quality response with detail and clarity.),55,2,15,0
+Write a funny joke about dogs.,Write... (This is a medium-quality response with some detail.),56,1,9,0
+Write a funny joke about dogs.,Write (Low response.),57,0,3,0
+How does the internet work?,How does the internet work? (This is a high-quality response with detail and clarity.),58,2,14,0
+How does the internet work?,How... (This is a medium-quality response with some detail.),59,1,9,0
+How does the internet work?,How (Low response.),60,0,3,0
+What are Newton’s laws of motion?,What are Newton’s laws of motion? (This is a high-quality response with detail and clarity.),61,2,15,0
+What are Newton’s laws of motion?,What... (This is a medium-quality response with some detail.),62,1,9,0
+What are Newton’s laws of motion?,What (Low response.),63,0,3,0
+What is climate change?,What is climate change? (This is a high-quality response with detail and clarity.),64,2,13,0
+What is climate change?,What... (This is a medium-quality response with some detail.),65,1,9,0
+What is climate change?,What (Low response.),66,0,3,0
+Give an example of a simile.,Give an example of a simile. (This is a high-quality response with detail and clarity.),67,2,15,0
+Give an example of a simile.,Give... (This is a medium-quality response with some detail.),68,1,9,0
+Give an example of a simile.,Give (Low response.),69,0,3,0
+Who was Albert Einstein?,Who was Albert Einstein? (This is a high-quality response with detail and clarity.),70,2,13,0
+Who was Albert Einstein?,Who... (This is a medium-quality response with some detail.),71,1,9,0
+Who was Albert Einstein?,Who (Low response.),72,0,3,0
+What is your favorite food and why?,What is your favorite food and why? (This is a high-quality response with detail and clarity.),73,2,16,0
+What is your favorite food and why?,What... (This is a medium-quality response with some detail.),74,1,9,0
+What is your favorite food and why?,What (Low response.),75,0,3,0
+Explain the water cycle.,Explain the water cycle. (This is a high-quality response with detail and clarity.),76,2,13,0
+Explain the water cycle.,Explain... (This is a medium-quality response with some detail.),77,1,9,0
+Explain the water cycle.,Explain (Low response.),78,0,3,0
+Describe a sunset.,Describe a sunset. (This is a high-quality response with detail and clarity.),79,2,12,0
+Describe a sunset.,Describe... (This is a medium-quality response with some detail.),80,1,9,0
+Describe a sunset.,Describe (Low response.),81,0,3,0
+What is the Pythagorean theorem?,What is the Pythagorean theorem? (This is a high-quality response with detail and clarity.),82,2,14,0
+What is the Pythagorean theorem?,What... (This is a medium-quality response with some detail.),83,1,9,0
+What is the Pythagorean theorem?,What (Low response.),84,0,3,0
+List three healthy snacks.,List three healthy snacks. (This is a high-quality response with detail and clarity.),85,2,13,0
+List three healthy snacks.,List... (This is a medium-quality response with some detail.),86,1,9,0
+List three healthy snacks.,List (Low response.),87,0,3,0
+What does democracy mean?,What does democracy mean? (This is a high-quality response with detail and clarity.),88,2,13,0
+What does democracy mean?,What... (This is a medium-quality response with some detail.),89,1,9,0
+What does democracy mean?,What (Low response.),90,0,3,0
+Describe a time you felt proud.,Describe a time you felt proud. (This is a high-quality response with detail and clarity.),91,2,15,0
+Describe a time you felt proud.,Describe... (This is a medium-quality response with some detail.),92,1,9,0
+Describe a time you felt proud.,Describe (Low response.),93,0,3,0
+Write a review of a book you liked.,Write a review of a book you liked. (This is a high-quality response with detail and clarity.),94,2,17,0
+Write a review of a book you liked.,Write... (This is a medium-quality response with some detail.),95,1,9,0
+Write a review of a book you liked.,Write (Low response.),96,0,3,0
+What are the main parts of a computer?,What are the main parts of a computer? (This is a high-quality response with detail and clarity.),97,2,17,0
+What are the main parts of a computer?,What... (This is a medium-quality response with some detail.),98,1,9,0
+What are the main parts of a computer?,What (Low response.),99,0,3,0
+How do you stay focused while studying?,How do you stay focused while studying? (This is a high-quality response with detail and clarity.),100,2,16,0
+How do you stay focused while studying?,How... (This is a medium-quality response with some detail.),101,1,9,0
+How do you stay focused while studying?,How (Low response.),102,0,3,0
+Define the term biodiversity.,Define the term biodiversity. (This is a high-quality response with detail and clarity.),103,2,13,0
+Define the term biodiversity.,Define... (This is a medium-quality response with some detail.),104,1,9,0
+Define the term biodiversity.,Define (Low response.),105,0,3,0
+What is a black hole?,What is a black hole? (This is a high-quality response with detail and clarity.),106,2,14,0
+What is a black hole?,What... (This is a medium-quality response with some detail.),107,1,9,0
+What is a black hole?,What (Low response.),108,0,3,0
+How do magnets work?,How do magnets work? (This is a high-quality response with detail and clarity.),109,2,13,0
+How do magnets work?,How... (This is a medium-quality response with some detail.),110,1,9,0
+How do magnets work?,How (Low response.),111,0,3,0
+What are your hobbies?,What are your hobbies? (This is a high-quality response with detail and clarity.),112,2,13,0
+What are your hobbies?,What... (This is a medium-quality response with some detail.),113,1,9,0
+What are your hobbies?,What (Low response.),114,0,3,0
+Why is sleep important?,Why is sleep important? (This is a high-quality response with detail and clarity.),115,2,13,0
+Why is sleep important?,Why... (This is a medium-quality response with some detail.),116,1,9,0
+Why is sleep important?,Why (Low response.),117,0,3,0
+Name three types of clouds.,Name three types of clouds. (This is a high-quality response with detail and clarity.),118,2,14,0
+Name three types of clouds.,Name... (This is a medium-quality response with some detail.),119,1,9,0
+Name three types of clouds.,Name (Low response.),120,0,3,0
+What is an ecosystem?,What is an ecosystem? (This is a high-quality response with detail and clarity.),121,2,13,0
+What is an ecosystem?,What... (This is a medium-quality response with some detail.),122,1,9,0
+What is an ecosystem?,What (Low response.),123,0,3,0
+Explain how to tie your shoes.,Explain how to tie your shoes. (This is a high-quality response with detail and clarity.),124,2,15,0
+Explain how to tie your shoes.,Explain... (This is a medium-quality response with some detail.),125,1,9,0
+Explain how to tie your shoes.,Explain (Low response.),126,0,3,0
+What are the benefits of reading books?,What are the benefits of reading books? (This is a high-quality response with detail and clarity.),127,2,16,0
+What are the benefits of reading books?,What... (This is a medium-quality response with some detail.),128,1,9,0
+What are the benefits of reading books?,What (Low response.),129,0,3,0
+Describe the process of digestion.,Describe the process of digestion. (This is a high-quality response with detail and clarity.),130,2,14,0
+Describe the process of digestion.,Describe... (This is a medium-quality response with some detail.),131,1,9,0
+Describe the process of digestion.,Describe (Low response.),132,0,3,0
+Why do leaves change color in autumn?,Why do leaves change color in autumn? (This is a high-quality response with detail and clarity.),133,2,16,0
+Why do leaves change color in autumn?,Why... (This is a medium-quality response with some detail.),134,1,9,0
+Why do leaves change color in autumn?,Why (Low response.),135,0,3,0
+What is a metaphor?,What is a metaphor? (This is a high-quality response with detail and clarity.),136,2,13,0
+What is a metaphor?,What... (This is a medium-quality response with some detail.),137,1,9,0
+What is a metaphor?,What (Low response.),138,0,3,0
+Give an example of a haiku.,Give an example of a haiku. (This is a high-quality response with detail and clarity.),139,2,15,0
+Give an example of a haiku.,Give... (This is a medium-quality response with some detail.),140,1,9,0
+Give an example of a haiku.,Give (Low response.),141,0,3,0
+How does a refrigerator work?,How does a refrigerator work? (This is a high-quality response with detail and clarity.),142,2,14,0
+How does a refrigerator work?,How... (This is a medium-quality response with some detail.),143,1,9,0
+How does a refrigerator work?,How (Low response.),144,0,3,0
+What is the moon made of?,What is the moon made of? (This is a high-quality response with detail and clarity.),145,2,15,0
+What is the moon made of?,What... (This is a medium-quality response with some detail.),146,1,9,0
+What is the moon made of?,What (Low response.),147,0,3,0
+Describe a dream vacation.,Describe a dream vacation. (This is a high-quality response with detail and clarity.),148,2,13,0
+Describe a dream vacation.,Describe... (This is a medium-quality response with some detail.),149,1,9,0
+Describe a dream vacation.,Describe (Low response.),150,0,3,0
+What are the seven continents?,What are the seven continents? (This is a high-quality response with detail and clarity.),151,2,14,0
+What are the seven continents?,What... (This is a medium-quality response with some detail.),152,1,9,0
+What are the seven continents?,What (Low response.),153,0,3,0
+How does gravity affect us?,How does gravity affect us? (This is a high-quality response with detail and clarity.),154,2,14,0
+How does gravity affect us?,How... (This is a medium-quality response with some detail.),155,1,9,0
+How does gravity affect us?,How (Low response.),156,0,3,0
+What is electricity?,What is electricity? (This is a high-quality response with detail and clarity.),157,2,12,0
+What is electricity?,What... (This is a medium-quality response with some detail.),158,1,9,0
+What is electricity?,What (Low response.),159,0,3,0
+Describe a day at the beach.,Describe a day at the beach. (This is a high-quality response with detail and clarity.),160,2,15,0
+Describe a day at the beach.,Describe... (This is a medium-quality response with some detail.),161,1,9,0
+Describe a day at the beach.,Describe (Low response.),162,0,3,0
+What are germs?,What are germs? (This is a high-quality response with detail and clarity.),163,2,12,0
+What are germs?,What... (This is a medium-quality response with some detail.),164,1,9,0
+What are germs?,What (Low response.),165,0,3,0
+Write a letter to your future self.,Write a letter to your future self. (This is a high-quality response with detail and clarity.),166,2,16,0
+Write a letter to your future self.,Write... (This is a medium-quality response with some detail.),167,1,9,0
+Write a letter to your future self.,Write (Low response.),168,0,3,0
+How do bees make honey?,How do bees make honey? (This is a high-quality response with detail and clarity.),169,2,14,0
+How do bees make honey?,How... (This is a medium-quality response with some detail.),170,1,9,0
+How do bees make honey?,How (Low response.),171,0,3,0
+What is a virus?,What is a virus? (This is a high-quality response with detail and clarity.),172,2,13,0
+What is a virus?,What... (This is a medium-quality response with some detail.),173,1,9,0
+What is a virus?,What (Low response.),174,0,3,0
+Explain the importance of teamwork.,Explain the importance of teamwork. (This is a high-quality response with detail and clarity.),175,2,14,0
+Explain the importance of teamwork.,Explain... (This is a medium-quality response with some detail.),176,1,9,0
+Explain the importance of teamwork.,Explain (Low response.),177,0,3,0
+What is empathy?,What is empathy? (This is a high-quality response with detail and clarity.),178,2,12,0
+What is empathy?,What... (This is a medium-quality response with some detail.),179,1,9,0
+What is empathy?,What (Low response.),180,0,3,0
+Name a famous artist and describe their style.,Name a famous artist and describe their style. (This is a high-quality response with detail and clarity.),181,2,17,0
+Name a famous artist and describe their style.,Name... (This is a medium-quality response with some detail.),182,1,9,0
+Name a famous artist and describe their style.,Name (Low response.),183,0,3,0
+What is your favorite animal?,What is your favorite animal? (This is a high-quality response with detail and clarity.),184,2,14,0
+What is your favorite animal?,What... (This is a medium-quality response with some detail.),185,1,9,0
+What is your favorite animal?,What (Low response.),186,0,3,0
+Describe how to brush your teeth.,Describe how to brush your teeth. (This is a high-quality response with detail and clarity.),187,2,15,0
+Describe how to brush your teeth.,Describe... (This is a medium-quality response with some detail.),188,1,9,0
+Describe how to brush your teeth.,Describe (Low response.),189,0,3,0
+What is the role of the president?,What is the role of the president? (This is a high-quality response with detail and clarity.),190,2,16,0
+What is the role of the president?,What... (This is a medium-quality response with some detail.),191,1,9,0
+What is the role of the president?,What (Low response.),192,0,3,0
+How do airplanes fly?,How do airplanes fly? (This is a high-quality response with detail and clarity.),193,2,13,0
+How do airplanes fly?,How... (This is a medium-quality response with some detail.),194,1,9,0
+How do airplanes fly?,How (Low response.),195,0,3,0
+What is renewable energy?,What is renewable energy? (This is a high-quality response with detail and clarity.),196,2,13,0
+What is renewable energy?,What... (This is a medium-quality response with some detail.),197,1,9,0
+What is renewable energy?,What (Low response.),198,0,3,0
+Name three planets in our solar system.,Name three planets in our solar system. (This is a high-quality response with detail and clarity.),199,2,16,0
+Name three planets in our solar system.,Name... (This is a medium-quality response with some detail.),200,1,9,0
+Name three planets in our solar system.,Name (Low response.),201,0,3,0
+Describe a thunderstorm.,Describe a thunderstorm. (This is a high-quality response with detail and clarity.),202,2,12,0
+Describe a thunderstorm.,Describe... (This is a medium-quality response with some detail.),203,1,9,0
+Describe a thunderstorm.,Describe (Low response.),204,0,3,0
+What is the difference between a city and a village?,What is the difference between a city and a village? (This is a high-quality response with detail and clarity.),205,2,19,0
+What is the difference between a city and a village?,What... (This is a medium-quality response with some detail.),206,1,9,0
+What is the difference between a city and a village?,What (Low response.),207,0,3,0
+What is money used for?,What is money used for? (This is a high-quality response with detail and clarity.),208,2,14,0
+What is money used for?,What... (This is a medium-quality response with some detail.),209,1,9,0
+What is money used for?,What (Low response.),210,0,3,0
+Explain the lifecycle of a butterfly.,Explain the lifecycle of a butterfly. (This is a high-quality response with detail and clarity.),211,2,15,0
+Explain the lifecycle of a butterfly.,Explain... (This is a medium-quality response with some detail.),212,1,9,0
+Explain the lifecycle of a butterfly.,Explain (Low response.),213,0,3,0
+What is photosynthesis?,What is photosynthesis? (This is a high-quality response with detail and clarity.),214,2,12,0
+What is photosynthesis?,What... (This is a medium-quality response with some detail.),215,1,9,0
+What is photosynthesis?,What (Low response.),216,0,3,0
+Describe a robot you’d invent.,Describe a robot you’d invent. (This is a high-quality response with detail and clarity.),217,2,14,0
+Describe a robot you’d invent.,Describe... (This is a medium-quality response with some detail.),218,1,9,0
+Describe a robot you’d invent.,Describe (Low response.),219,0,3,0
+What is the function of the brain?,What is the function of the brain? (This is a high-quality response with detail and clarity.),220,2,16,0
+What is the function of the brain?,What... (This is a medium-quality response with some detail.),221,1,9,0
+What is the function of the brain?,What (Low response.),222,0,3,0
+How do you make a sandwich?,How do you make a sandwich? (This is a high-quality response with detail and clarity.),223,2,15,0
+How do you make a sandwich?,How... (This is a medium-quality response with some detail.),224,1,9,0
+How do you make a sandwich?,How (Low response.),225,0,3,0
+Explain recycling to a child.,Explain recycling to a child. (This is a high-quality response with detail and clarity.),226,2,14,0
+Explain recycling to a child.,Explain... (This is a medium-quality response with some detail.),227,1,9,0
+Explain recycling to a child.,Explain (Low response.),228,0,3,0
+What are your weekend plans?,What are your weekend plans? (This is a high-quality response with detail and clarity.),229,2,14,0
+What are your weekend plans?,What... (This is a medium-quality response with some detail.),230,1,9,0
+What are your weekend plans?,What (Low response.),231,0,3,0
+Describe your school.,Describe your school. (This is a high-quality response with detail and clarity.),232,2,12,0
+Describe your school.,Describe... (This is a medium-quality response with some detail.),233,1,9,0
+Describe your school.,Describe (Low response.),234,0,3,0
+What makes a good friend?,What makes a good friend? (This is a high-quality response with detail and clarity.),235,2,14,0
+What makes a good friend?,What... (This is a medium-quality response with some detail.),236,1,9,0
+What makes a good friend?,What (Low response.),237,0,3,0
+What is pollution?,What is pollution? (This is a high-quality response with detail and clarity.),238,2,12,0
+What is pollution?,What... (This is a medium-quality response with some detail.),239,1,9,0
+What is pollution?,What (Low response.),240,0,3,0
+Write a slogan for a toy store.,Write a slogan for a toy store. (This is a high-quality response with detail and clarity.),241,2,16,0
+Write a slogan for a toy store.,Write... (This is a medium-quality response with some detail.),242,1,9,0
+Write a slogan for a toy store.,Write (Low response.),243,0,3,0
+How do you make paper?,How do you make paper? (This is a high-quality response with detail and clarity.),244,2,14,0
+How do you make paper?,How... (This is a medium-quality response with some detail.),245,1,9,0
+How do you make paper?,How (Low response.),246,0,3,0
+What is your favorite song?,What is your favorite song? (This is a high-quality response with detail and clarity.),247,2,14,0
+What is your favorite song?,What... (This is a medium-quality response with some detail.),248,1,9,0
+What is your favorite song?,What (Low response.),249,0,3,0
+Write an email asking for help with homework.,Write an email asking for help with homework. (This is a high-quality response with detail and clarity.),250,2,17,0
+Write an email asking for help with homework.,Write... (This is a medium-quality response with some detail.),251,1,9,0
+Write an email asking for help with homework.,Write (Low response.),252,0,3,0
+Explain the concept of gravity in simple terms.,"Gravity is the force by which a planet or other body draws objects toward its center. For example, Earth's gravity pulls us down so we don't float away.",1,2,28,0.74819124
+Explain the concept of gravity in simple terms.,Gravity is like a magnet that pulls things down to the ground.,2,1,12,0.7163683
+Explain the concept of gravity in simple terms.,Gravity is when things fall down.,3,0,6,0.6998513
+Summarize the story of Little Red Riding Hood.,Little Red Riding Hood is a story about a girl who visits her grandmother and meets a wolf who tries to trick her.,1,2,23,0.7799034
+Summarize the story of Little Red Riding Hood.,A girl wears a red hood and meets a wolf.,2,1,10,0.43763268
+Summarize the story of Little Red Riding Hood.,A girl and a wolf.,3,0,5,0.23794806
+Translate the sentence 'Knowledge is power' into French.,La connaissance est le pouvoir.,1,2,5,0.33985415
+Translate the sentence 'Knowledge is power' into French.,Savoir c'est force.,2,1,3,0.3805138
+Translate the sentence 'Knowledge is power' into French.,Connaissance est puissance.,3,0,3,0.33096296
+Write a polite email to request a meeting with your professor.,"Dear Professor, I hope this message finds you well. I would like to schedule a meeting to discuss my research progress. Please let me know your available times. Best regards.",1,2,30,0.6427235
+Write a polite email to request a meeting with your professor.,"Hi Professor, Can we meet sometime? Thanks.",2,1,7,0.5758364
+Write a polite email to request a meeting with your professor.,Meeting professor.,3,0,2,0.6776123
+Give an example of a metaphor and explain it.,"Life is a journey, meaning life is full of experiences like traveling.",1,2,12,0.23038718
+Give an example of a metaphor and explain it.,"Time is money, saying time is valuable.",2,1,7,0.23818608
+Give an example of a metaphor and explain it.,Metaphor is like a simile.,3,0,5,0.74067914
+What are the benefits of drinking water regularly?,"Drinking water regularly keeps you hydrated, helps your skin stay healthy, and aids digestion.",1,2,14,0.74022657
+What are the benefits of drinking water regularly?,Water is good for health and makes you not thirsty.,2,1,10,0.6767
+What are the benefits of drinking water regularly?,Water is drink.,3,0,3,0.5440545
+Write a short Python function to calculate factorial.,def factorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * factorial(n-1),1,2,13,0.7573664
+Write a short Python function to calculate factorial.,def fact(n):\n    return n*fact(n-1),2,1,4,0.35080954
+Write a short Python function to calculate factorial.,def factorial():\n    pass,3,0,3,0.74368286
+Describe the process of photosynthesis.,Photosynthesis is the process by which green plants use sunlight to make food from carbon dioxide and water.,1,2,18,0.79754424
+Describe the process of photosynthesis.,Plants use sunlight to grow.,2,1,5,0.51444596
+Describe the process of photosynthesis.,Photosynthesis is a plant thing.,3,0,5,0.7168972
+What is the capital of France?,The capital of France is Paris.,1,2,6,0.8790109
+What is the capital of France?,France's capital is Paris.,2,1,4,0.8766401
+What is the capital of France?,I don't know.,3,0,3,0.07446447
+Write a joke about cats.,Why did the cat sit on the computer? Because it wanted to keep an eye on the mouse!,1,2,18,0.4078572
+Write a joke about cats.,Cats are funny.,2,1,3,0.75357735
+Write a joke about cats.,Meow.,3,0,1,0.3524521
+Generate a tweet promoting a new coffee shop.,Come visit Brew Bliss! The best coffee in town with cozy vibes. ☕️ #CoffeeLovers,1,2,14,0.43995032
+Generate a tweet promoting a new coffee shop.,New coffee shop open.,2,1,4,0.6306566
+Generate a tweet promoting a new coffee shop.,Coffee.,3,0,1,0.41633666
+Explain blockchain technology in under 100 words.,Blockchain is a decentralized ledger that records transactions across many computers. It ensures data security and transparency without a central authority.,1,2,21,0.64773613
+Explain blockchain technology in under 100 words.,Blockchain is like a digital notebook shared by many people.,2,1,10,0.62902164
+Explain blockchain technology in under 100 words.,Blockchain is complicated.,3,0,3,0.6846804
+Give three tips for effective time management.,1. Prioritize tasks. 2. Avoid multitasking. 3. Use a planner to schedule your day.,1,2,14,0.5930394
+Give three tips for effective time management.,Manage your time well.,2,1,4,0.72151136
+Give three tips for effective time management.,Don't waste time.,3,0,3,0.28476736
+Write a haiku about the moon.,Silver moon glistens\nSilent night sky shines so bright\nWhispers of the stars,1,2,11,0.4442131
+Write a haiku about the moon.,Moon is up high.,2,1,4,0.54806376
+Write a haiku about the moon.,Moon.,3,0,1,0.5627019
+Summarize the plot of 'Romeo and Juliet'.,Romeo and Juliet is a tragic love story about two young lovers from feuding families whose love ends in tragedy.,1,2,20,0.7455691
+Summarize the plot of 'Romeo and Juliet'.,Two lovers from different families.,2,1,5,0.27505267
+Summarize the plot of 'Romeo and Juliet'.,Love story.,3,0,2,0.3058176
+List the prime numbers between 1 and 20.,"The prime numbers are 2, 3, 5, 7, 11, 13, 17, and 19.",1,2,13,0.70509017
+List the prime numbers between 1 and 20.,"Primes between 1 and 20: 2,3,5.",2,1,6,0.8248358
+List the prime numbers between 1 and 20.,Prime numbers.,3,0,2,0.664435
+Explain why the sky is blue.,The sky appears blue because molecules in the air scatter blue light from the sun more than other colors.,1,2,19,0.817495
+Explain why the sky is blue.,Sky is blue because of sunlight.,2,1,6,0.8691994
+Explain why the sky is blue.,Blue sky.,3,0,2,0.7494371
+Describe a solution to reduce plastic pollution.,"Reducing plastic pollution can be done by recycling, using reusable bags, and limiting single-use plastics.",1,2,15,0.7502805
+Describe a solution to reduce plastic pollution.,Use less plastic.,2,1,3,0.5931845
+Describe a solution to reduce plastic pollution.,Plastic bad.,3,0,2,0.46043962
+Write a paragraph in favor of remote work.,"Remote work allows flexibility, reduces commute time, and improves work-life balance for many people.",1,2,14,0.6477839
+Write a paragraph in favor of remote work.,Working from home is good.,2,1,5,0.35680643
+Write a paragraph in favor of remote work.,Remote work.,3,0,2,0.70785785
+Provide a synonym for the word 'beautiful' and use it in a sentence.,A synonym for beautiful is 'gorgeous'. The sunset was absolutely gorgeous yesterday.,1,2,12,0.75147706
+Provide a synonym for the word 'beautiful' and use it in a sentence.,Beautiful means nice.,2,1,3,0.71995986
+Provide a synonym for the word 'beautiful' and use it in a sentence.,Beautiful.,3,0,1,0.3219881
