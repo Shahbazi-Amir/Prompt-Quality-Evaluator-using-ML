@@ -1,0 +1,61 @@
+prompt,response,response_id,quality_label,length,prompt_response_sim
+Explain the concept of gravity in simple terms.,"Gravity is the force by which a planet or other body draws objects toward its center. For example, Earth's gravity pulls us down so we don't float away.",1,2,28,0.74819124
+Explain the concept of gravity in simple terms.,Gravity is like a magnet that pulls things down to the ground.,2,1,12,0.7163683
+Explain the concept of gravity in simple terms.,Gravity is when things fall down.,3,0,6,0.6998513
+Summarize the story of Little Red Riding Hood.,Little Red Riding Hood is a story about a girl who visits her grandmother and meets a wolf who tries to trick her.,1,2,23,0.7799034
+Summarize the story of Little Red Riding Hood.,A girl wears a red hood and meets a wolf.,2,1,10,0.43763268
+Summarize the story of Little Red Riding Hood.,A girl and a wolf.,3,0,5,0.23794806
+Translate the sentence 'Knowledge is power' into French.,La connaissance est le pouvoir.,1,2,5,0.33985415
+Translate the sentence 'Knowledge is power' into French.,Savoir c'est force.,2,1,3,0.3805138
+Translate the sentence 'Knowledge is power' into French.,Connaissance est puissance.,3,0,3,0.33096296
+Write a polite email to request a meeting with your professor.,"Dear Professor, I hope this message finds you well. I would like to schedule a meeting to discuss my research progress. Please let me know your available times. Best regards.",1,2,30,0.6427235
+Write a polite email to request a meeting with your professor.,"Hi Professor, Can we meet sometime? Thanks.",2,1,7,0.5758364
+Write a polite email to request a meeting with your professor.,Meeting professor.,3,0,2,0.6776123
+Give an example of a metaphor and explain it.,"Life is a journey, meaning life is full of experiences like traveling.",1,2,12,0.23038718
+Give an example of a metaphor and explain it.,"Time is money, saying time is valuable.",2,1,7,0.23818608
+Give an example of a metaphor and explain it.,Metaphor is like a simile.,3,0,5,0.74067914
+What are the benefits of drinking water regularly?,"Drinking water regularly keeps you hydrated, helps your skin stay healthy, and aids digestion.",1,2,14,0.74022657
+What are the benefits of drinking water regularly?,Water is good for health and makes you not thirsty.,2,1,10,0.6767
+What are the benefits of drinking water regularly?,Water is drink.,3,0,3,0.5440545
+Write a short Python function to calculate factorial.,def factorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * factorial(n-1),1,2,13,0.7573664
+Write a short Python function to calculate factorial.,def fact(n):\n    return n*fact(n-1),2,1,4,0.35080954
+Write a short Python function to calculate factorial.,def factorial():\n    pass,3,0,3,0.74368286
+Describe the process of photosynthesis.,Photosynthesis is the process by which green plants use sunlight to make food from carbon dioxide and water.,1,2,18,0.79754424
+Describe the process of photosynthesis.,Plants use sunlight to grow.,2,1,5,0.51444596
+Describe the process of photosynthesis.,Photosynthesis is a plant thing.,3,0,5,0.7168972
+What is the capital of France?,The capital of France is Paris.,1,2,6,0.8790109
+What is the capital of France?,France's capital is Paris.,2,1,4,0.8766401
+What is the capital of France?,I don't know.,3,0,3,0.07446447
+Write a joke about cats.,Why did the cat sit on the computer? Because it wanted to keep an eye on the mouse!,1,2,18,0.4078572
+Write a joke about cats.,Cats are funny.,2,1,3,0.75357735
+Write a joke about cats.,Meow.,3,0,1,0.3524521
+Generate a tweet promoting a new coffee shop.,Come visit Brew Bliss! The best coffee in town with cozy vibes. ☕️ #CoffeeLovers,1,2,14,0.43995032
+Generate a tweet promoting a new coffee shop.,New coffee shop open.,2,1,4,0.6306566
+Generate a tweet promoting a new coffee shop.,Coffee.,3,0,1,0.41633666
+Explain blockchain technology in under 100 words.,Blockchain is a decentralized ledger that records transactions across many computers. It ensures data security and transparency without a central authority.,1,2,21,0.64773613
+Explain blockchain technology in under 100 words.,Blockchain is like a digital notebook shared by many people.,2,1,10,0.62902164
+Explain blockchain technology in under 100 words.,Blockchain is complicated.,3,0,3,0.6846804
+Give three tips for effective time management.,1. Prioritize tasks. 2. Avoid multitasking. 3. Use a planner to schedule your day.,1,2,14,0.5930394
+Give three tips for effective time management.,Manage your time well.,2,1,4,0.72151136
+Give three tips for effective time management.,Don't waste time.,3,0,3,0.28476736
+Write a haiku about the moon.,Silver moon glistens\nSilent night sky shines so bright\nWhispers of the stars,1,2,11,0.4442131
+Write a haiku about the moon.,Moon is up high.,2,1,4,0.54806376
+Write a haiku about the moon.,Moon.,3,0,1,0.5627019
+Summarize the plot of 'Romeo and Juliet'.,Romeo and Juliet is a tragic love story about two young lovers from feuding families whose love ends in tragedy.,1,2,20,0.7455691
+Summarize the plot of 'Romeo and Juliet'.,Two lovers from different families.,2,1,5,0.27505267
+Summarize the plot of 'Romeo and Juliet'.,Love story.,3,0,2,0.3058176
+List the prime numbers between 1 and 20.,"The prime numbers are 2, 3, 5, 7, 11, 13, 17, and 19.",1,2,13,0.70509017
+List the prime numbers between 1 and 20.,"Primes between 1 and 20: 2,3,5.",2,1,6,0.8248358
+List the prime numbers between 1 and 20.,Prime numbers.,3,0,2,0.664435
+Explain why the sky is blue.,The sky appears blue because molecules in the air scatter blue light from the sun more than other colors.,1,2,19,0.817495
+Explain why the sky is blue.,Sky is blue because of sunlight.,2,1,6,0.8691994
+Explain why the sky is blue.,Blue sky.,3,0,2,0.7494371
+Describe a solution to reduce plastic pollution.,"Reducing plastic pollution can be done by recycling, using reusable bags, and limiting single-use plastics.",1,2,15,0.7502805
+Describe a solution to reduce plastic pollution.,Use less plastic.,2,1,3,0.5931845
+Describe a solution to reduce plastic pollution.,Plastic bad.,3,0,2,0.46043962
+Write a paragraph in favor of remote work.,"Remote work allows flexibility, reduces commute time, and improves work-life balance for many people.",1,2,14,0.6477839
+Write a paragraph in favor of remote work.,Working from home is good.,2,1,5,0.35680643
+Write a paragraph in favor of remote work.,Remote work.,3,0,2,0.70785785
+Provide a synonym for the word 'beautiful' and use it in a sentence.,A synonym for beautiful is 'gorgeous'. The sunset was absolutely gorgeous yesterday.,1,2,12,0.75147706
+Provide a synonym for the word 'beautiful' and use it in a sentence.,Beautiful means nice.,2,1,3,0.71995986
+Provide a synonym for the word 'beautiful' and use it in a sentence.,Beautiful.,3,0,1,0.3219881
